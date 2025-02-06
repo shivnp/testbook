@@ -11,3 +11,6 @@ bibtex_bibfiles:
   - references.bib
 
 baseurl: "https://shivnp.github.io/testbook"
+
+html:
+  baseurl: "/testbook/"
